@@ -1,9 +1,119 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="r--lAdY53lSL47nnchoB">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1196" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zq5a7eHgudgZaI7AFO8v-1" value="Діма&lt;div&gt;Інженер забезпечення якості та тестувальник&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="128" y="333" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zq5a7eHgudgZaI7AFO8v-4" value="Створення тест-планів та чеклістів" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="227" y="303" width="233" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zq5a7eHgudgZaI7AFO8v-5" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" target="zq5a7eHgudgZaI7AFO8v-4" parent="1" source="zq5a7eHgudgZaI7AFO8v-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="-9" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="247" y="-19" />
+              <mxPoint x="363" y="-36" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zq5a7eHgudgZaI7AFO8v-6" value="Артем&lt;div&gt;Проджект менеджер&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="329" y="169" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zq5a7eHgudgZaI7AFO8v-7" value="Звітування про виконану роботу та зворотній зв&#39;язок" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="422" y="139" width="332" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zq5a7eHgudgZaI7AFO8v-8" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" source="zq5a7eHgudgZaI7AFO8v-6" target="zq5a7eHgudgZaI7AFO8v-7" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="189" y="-29.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="66" y="-39.5" />
+              <mxPoint x="182" y="-56.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zq5a7eHgudgZaI7AFO8v-9" value="Віталій&lt;div&gt;Звуковий інженер&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-141" y="15" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zq5a7eHgudgZaI7AFO8v-12" value="Арсен&lt;div&gt;Сценарист і тімлід&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="331" y="15" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zq5a7eHgudgZaI7AFO8v-13" value="Розподіл задач між членами команди" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="422" y="-15" width="248" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zq5a7eHgudgZaI7AFO8v-14" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" source="zq5a7eHgudgZaI7AFO8v-12" target="zq5a7eHgudgZaI7AFO8v-13" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="278" y="-41" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="155" y="-51" />
+              <mxPoint x="271" y="-68" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zq5a7eHgudgZaI7AFO8v-15" value="Денис&lt;div&gt;Інженер-програміст&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-144" y="169" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zq5a7eHgudgZaI7AFO8v-16" value="Написання та підтримка програмного коду гри" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-70" y="184" width="297" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zq5a7eHgudgZaI7AFO8v-17" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" source="zq5a7eHgudgZaI7AFO8v-15" target="zq5a7eHgudgZaI7AFO8v-16" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1" y="223" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-124" y="213" />
+              <mxPoint x="-8" y="196" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zq5a7eHgudgZaI7AFO8v-20" value="Створення звукових ефектів" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-48" y="-15" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zq5a7eHgudgZaI7AFO8v-21" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" target="zq5a7eHgudgZaI7AFO8v-20" parent="1" source="zq5a7eHgudgZaI7AFO8v-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-94" y="46" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zq5a7eHgudgZaI7AFO8v-24" value="Написання та підбір музики" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-48" y="45" width="193" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zq5a7eHgudgZaI7AFO8v-25" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" target="zq5a7eHgudgZaI7AFO8v-24" parent="1" source="zq5a7eHgudgZaI7AFO8v-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-103" y="93" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zq5a7eHgudgZaI7AFO8v-26" value="Розробка ідеї та сценарію гри" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="422" y="45" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zq5a7eHgudgZaI7AFO8v-27" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" target="zq5a7eHgudgZaI7AFO8v-26" parent="1" source="zq5a7eHgudgZaI7AFO8v-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="376" y="97" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="172" y="8" />
+              <mxPoint x="288" y="-9" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zq5a7eHgudgZaI7AFO8v-28" value="Написання ліцензійної угоди та керівництва користувача" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="422" y="199" width="355" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zq5a7eHgudgZaI7AFO8v-29" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" target="zq5a7eHgudgZaI7AFO8v-28" parent="1" source="zq5a7eHgudgZaI7AFO8v-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="387" y="264.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="335" y="232.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zq5a7eHgudgZaI7AFO8v-30" value="Тестування готової гри за написаними чеклістами" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="227" y="363" width="316" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zq5a7eHgudgZaI7AFO8v-31" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" target="zq5a7eHgudgZaI7AFO8v-30" parent="1" source="zq5a7eHgudgZaI7AFO8v-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="445" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
